@@ -43,6 +43,8 @@ This repo is a Claude Code plugin. Install via the **xiaolai** marketplace:
 /plugin install north-star@xiaolai
 ```
 
+> **If install returns "Plugin not found in marketplace 'xiaolai'"**, your local marketplace clone is stale — `claude plugin install` does not auto-refresh it. Run `claude plugin marketplace update xiaolai` and retry. The plugin is listed; your local copy just predates the listing.
+
 After install, the plugin contributes:
 
 - **`@north-star:north-star-advisor`** — judgment-task subagent. Carries the full prompt as its system prompt; orchestrator dispatches to it for recommendations, reviews, decisions, plans. Fresh context each invocation.
