@@ -4,7 +4,7 @@
     "name": "xiaolai"
   },
   "metadata": {
-    "description": "north-star — a system prompt that overrides three presumptions RLHF training instils, by xiaolai"
+    "description": "north-star \u2014 a system prompt that overrides three presumptions RLHF training instils, by xiaolai"
   },
   "plugins": [
     {
@@ -14,7 +14,7 @@
         "repo": "xiaolai/north-star-system-prompt"
       },
       "description": "A 260-token system prompt that overrides three structural presumptions every RLHF-trained LLM inherits from training: that you want confirmation, that old scarcity still applies, that best practices are ceilings.",
-      "version": "0.1.4",
+      "version": "0.1.5",
       "author": {
         "name": "xiaolai"
       },

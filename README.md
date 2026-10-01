@@ -120,3 +120,11 @@ To make this plugin installable from the central xiaolai marketplace:
 ## License
 
 ISC. See [LICENSE](./LICENSE).
+
+## Scope and measurement
+
+These instructions request a reasoning stance; they do not guarantee that training effects are
+overridden. Installation contributes the command and advisor, not a replacement global system prompt.
+If the ambient principles already live in your authoritative AGENTS.md or user instructions, do not
+paste another copy. Keep the advisor only when its independent review is useful. The evaluation cases
+compare observable responses with and without the plugin, including situations where agreement is correct.
